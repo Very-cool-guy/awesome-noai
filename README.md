@@ -7,15 +7,7 @@ Codebases that do not have a permanent anti-ai policy are prefixed with `🤔`.
 
 ## Languages
 
-- 🤔 [java](https://openjdk.org/legal/ai)
-
-### sql
-- 🤔 postgresql
-
-### c#
-- 🤔 mono
-
-### shell
-- 🤔 bash
-- [fish](https://github.com/fish-shell/fish-shell?tab=contributing-ov-file#ai-contributions-policy)
-- 🤔 tcsh
+- 🤔[java](https://openjdk.org/legal/ai)
+- sql (🤔postgresql)
+- c# (🤔mono)
+- shell (🤔bash, [fish](https://github.com/fish-shell/fish-shell?tab=contributing-ov-file#ai-contributions-policy), 🤔tcsh)
