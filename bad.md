@@ -20,3 +20,18 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - c# (.net core)
 - [r](https://r-consortium.org/posts/how-do-i-contribute-to-r/#what-about-ai-assisted-contributions)
 - shell (powershell, nushell, xonsh, [zsh](https://www.zsh.org/mla/workers/2026/msg00146.html))
+- rust
+- swift
+- scala
+- kotlin
+- haskell
+- clojure ([squint-cljs](https://github.com/squint-cljs/squint/blob/main/doc/ai/AGENTS.md), [sci](https://github.com/babashka/sci/tree/10d30cabbd8502d3b9c61f81f9083572718b8289/doc/ai), [babashka](https://github.com/babashka/babashka#setting-expectations))
+- elixir
+- common lisp (sbcl, clozure cl)
+- [erlang](https://github.com/erlang/otp/pulls?q=sort%3Aupdated-desc+is%3Apr+state%3Amerged+ai)
+- prolog (scryer-prolog, swi-prolog)
+- julia
+- dart
+- solidity
+- cobol (gcc, [gnu cobol](https://github.com/OCamlPro/gnucobol/pull/296))
+- [racket](https://github.com/racket/racket/issues/5466)
