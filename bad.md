@@ -17,7 +17,10 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - go
 - sql (sqlite, [mysql](https://github.com/mysql/mysql-server/tree/trunk/.github/codex))
 - typescript
-- c# (.net core)
+- c# (.net core, roslyn)
+- f#
+- vb.net (roslyn)
+- asp.net
 - [r](https://r-consortium.org/posts/how-do-i-contribute-to-r/#what-about-ai-assisted-contributions)
 - shell (powershell, nushell, xonsh, [zsh](https://www.zsh.org/mla/workers/2026/msg00146.html))
 - rust
@@ -35,3 +38,36 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - solidity
 - cobol (gcc, [gnu cobol](https://github.com/OCamlPro/gnucobol/pull/296))
 - [racket](https://github.com/racket/racket/issues/5466)
+- pascal (free pascal)
+- nim
+- fortran ([gnu fortran](https://github.com/gcc-mirror/gcc/commit/3872da84760f827365fc0f8d1fdc45ca25810f89))
+- ada ([adacore](https://www.adacore.com/blog/gnat-foundry-intersection-demonstrating-trustworthy-ai-development))
+- crystal
+- ocaml (ocaml, reasonml)
+- d
+- elm
+- haxe
+- scheme ([mit/gnu](https://ist.mit.edu/ai-guidance))
+- groovy
+- rocq
+- smalltalk ([squeak](https://news.squeak.org/2024/12/06/integrating-ai-language-models-into-smalltalk-development-workflows/), pharo, io)
+- idris
+- odin
+- uiua
+- scratch
+- c3
+- red
+- lean
+- mojo
+- f*
+- v
+- vimscript
+- raku (rakudo)
+- mercury
+- carbon
+- unison
+- coconut
+- factor
+- pony
+- koka
+- [agda](https://github.com/search?q=repo%3Aagda%2Fagda+ai&type=pullrequests)

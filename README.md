@@ -17,3 +17,12 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 - common lisp (clisp)
 - objective-c
 - ❗[zig](https://codeberg.org/ziglang/zig#strict-no-llm-no-ai-policy)
+- scheme ([chez](https://github.com/cisco/ChezScheme/issues/1028), chicken, gambit, ❗[guile](https://www.gnu.org/software/guile/contribute/))
+- ❗[gleam](https://github.com/gleam-lang/gleam?tab=contributing-ov-file#contributing-code-changes)
+- smalltalk (self)
+- purescript
+- forth (gforth)
+- bqn, gnu apl, j, kona
+- delphi
+- ❗[fennel](https://github.com/bakpakin/fennel?tab=contributing-ov-file#contribution-transparency)
+- hy
