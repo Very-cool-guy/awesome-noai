@@ -2,10 +2,9 @@
 List of awesome open source software without ai code. It's infeasible to avoid all ai-assisted software, but this list aims to inform the choice of people who value ai's harms. For a list of software some people would want to avoid, see [bad.md](bad.md).  
 Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Others have unclear or interim policies but currently do not have any ai code.
 
-## Contents
-- [Languages](#Languages)
-
-## Languages
+<details>
+<summary>Languages</summary>
+<br>
 
 - [java](https://openjdk.org/legal/ai)
 - sql (postgresql)
@@ -26,3 +25,5 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 - delphi
 - ❗[fennel](https://github.com/bakpakin/fennel?tab=contributing-ov-file#contribution-transparency)
 - hy
+
+</details>

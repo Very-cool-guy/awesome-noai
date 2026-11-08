@@ -3,10 +3,9 @@ There may be some vibe-coded repos I marked as ai-assisted.
 right now im only focusing on stuff ive heard of.  
 entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 
-## Contents
-- [Languages](#Languages)
-
-## languages
+<details>
+<summary>Languages</summary>
+<br>
 
 - javascript (deno, node, v8, [SpiderMonkey](https://github.com/mozilla-firefox/firefox/blob/main/js/AGENTS.md), 🤖[Bun](https://bun.com/blog/bun-in-rust))
 - c/c++ (gcc, tinycc, [clang](https://llvm.org/docs/AIToolPolicy.html))
@@ -71,3 +70,4 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - pony
 - koka
 - [agda](https://github.com/search?q=repo%3Aagda%2Fagda+ai&type=pullrequests)
+</details>
