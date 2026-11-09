@@ -36,6 +36,15 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 </details>
 
 <details>
+<summary>Web development</summary>
+<br>
+
+- vue
+- [flask](https://palletsprojects.com/contributing/llm-ai)
+- jekyll
+</details>
+
+<details>
 <summary>Terminal emulators</summary>
 <br>
 

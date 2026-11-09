@@ -91,6 +91,27 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 </details>
 
 <details>
+<summary>Web development</summary>
+<br>
+
+- angular
+- django
+- ember
+- express
+- laravel
+- ruby on rails
+- react
+- next.js
+- svelte
+- fastapi
+- [jquery](https://github.com/jquery/jquery/pull/5775)
+- phoenix
+- tailwind
+- bootstrap
+- hugo
+</details>
+
+<details>
 <summary>Terminal emulators</summary>
 <br>
 
