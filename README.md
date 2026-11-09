@@ -41,3 +41,10 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 
 - ❗[love2d](https://github.com/love2d/love#contributing)
 </details>
+
+<details>
+<summary>Browsers</summary>
+<br>
+
+sorry :(
+</details>

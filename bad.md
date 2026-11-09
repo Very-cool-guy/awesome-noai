@@ -99,3 +99,13 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - raylib
 - simple directmedia layer
 </details>
+
+<details>
+<summary>Browsers</summary>
+<br>
+
+- chromium (numerous derivatives)
+- firefox (waterfox, zen, floorp)
+- webkit (safari)
+- mullvad
+</details>
