@@ -91,6 +91,17 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 </details>
 
 <details>
+<summary>Terminal emulators</summary>
+<br>
+
+- ghostty
+- kitty
+- wezterm
+- iterm2
+- windows terminal
+</details>
+
+<details>
 <summary>Game engines</summary>
 <br>
 

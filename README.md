@@ -36,6 +36,14 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 </details>
 
 <details>
+<summary>Terminal emulators</summary>
+<br>
+
+- ❗[alacritty](https://github.com/alacritty/alacritty?tab=contributing-ov-file#llmai-contributions)
+- hyper
+</details>
+
+<details>
 <summary>Game engines</summary>
 <br>
 
