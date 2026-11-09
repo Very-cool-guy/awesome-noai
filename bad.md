@@ -4,6 +4,25 @@ right now im only focusing on stuff ive heard of.
 entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 
 <details>
+<summary>Editors and IDEs</summary>
+<br>
+
+- emacs
+- [kate](https://community.kde.org/Guidelines_and_HOWTOs/Maintainers_and_Contributions)
+- notepad++
+- [vscodium](https://github.com/vscodium/vscodium?tab=contributing-ov-file#use-of-ai)
+- zed
+- kakoune
+- helix
+- micro
+- vim
+- neovim
+- fresh
+- eclipse
+- intellij community edition
+</details>
+
+<details>
 <summary>Languages</summary>
 <br>
 
@@ -60,7 +79,6 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - mojo
 - f*
 - v
-- vimscript
 - raku (rakudo)
 - mercury
 - carbon

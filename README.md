@@ -3,6 +3,13 @@ List of awesome open source software without ai code. It's infeasible to avoid a
 Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Others have unclear or interim policies but currently do not have any ai code.
 
 <details>
+<summary>Editors and IDEs</summary>
+<br>
+
+- nano
+</details>
+
+<details>
 <summary>Languages</summary>
 <br>
 
