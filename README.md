@@ -44,6 +44,17 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 </details>
 
 <details>
+<summary>Operating systems</summary>
+<br>
+
+- 9front
+- [freebsd](https://reviews.freebsd.org/D50650)
+- dragonflybsd
+- [openbsd](https://marc.info/?l=openbsd-tech&m=177425035627562&)
+- ❗[netbsd](https://www.netbsd.org/developers/commit-guidelines.html)
+</details>
+
+<details>
 <summary>Game engines</summary>
 <br>
 

@@ -102,6 +102,15 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 </details>
 
 <details>
+<summary>Operating systems</summary>
+<br>
+
+- linux (numerous distros)
+- haiku
+- reactos
+</details>
+
+<details>
 <summary>Game engines</summary>
 <br>
 
