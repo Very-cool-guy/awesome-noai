@@ -89,3 +89,13 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - koka
 - [agda](https://github.com/search?q=repo%3Aagda%2Fagda+ai&type=pullrequests)
 </details>
+
+<details>
+<summary>Game engines</summary>
+<br>
+
+- godot
+- renpy
+- raylib
+- simple directmedia layer
+</details>
