@@ -142,6 +142,23 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 </details>
 
 <details>
+<summary>UI frameworks</summary>
+<br>
+
+- [tk](https://github.com/python/cpython/commits/main/Lib/tkinter) (tkinter)
+- gnustep
+- gtk
+- qt
+- electron
+- react native
+- tauri
+- flutter
+- [bubbletea](https://github.com/charmbracelet/bubbletea/pull/1833)
+- textual
+- ratatui
+</details>
+
+<details>
 <summary>Browsers</summary>
 <br>
 

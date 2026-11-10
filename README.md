@@ -71,6 +71,15 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 </details>
 
 <details>
+<summary>UI frameworks</summary>
+<br>
+
+- tk (tcl/tk)
+- ncurses
+- blessed
+</details>
+
+<details>
 <summary>Browsers</summary>
 <br>
 
