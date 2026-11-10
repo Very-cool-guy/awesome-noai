@@ -85,3 +85,16 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 
 sorry :(
 </details>
+
+<details>
+<summary>Multimedia</summary>
+<br>
+
+- gimp
+- [krita](https://github.com/KDE/krita#ai-moratorium)
+- inkscape
+- sonic pi
+- ❗[tidalcycles](https://codeberg.org/uzu/tidal/src/branch/main/POLICY.md#in-practice)
+- icecast
+- pulseaudio
+</details>

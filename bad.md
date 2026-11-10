@@ -167,3 +167,17 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - webkit (safari)
 - mullvad
 </details>
+
+<details>
+<summary>Multimedia</summary>
+<br>
+
+- blender
+- audacity
+- ffmpeg
+- musescore
+- lilypond
+- [supercollider](https://github.com/supercollider/supercollider/blob/develop/CODE_OF_CONDUCT.md#usage-of-ai-tools)
+- [lmms](https://github.com/LMMS/lmms/pull/8156#issuecomment-3614050018)
+- vlc
+</details>
