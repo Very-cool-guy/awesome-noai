@@ -132,6 +132,21 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 </details>
 
 <details>
+<summary>Desktop environments and window managers</summary>
+<br>
+
+- [kde plasma](https://community.kde.org/Guidelines_and_HOWTOs/Maintainers_and_Contributions)
+- cinnamon
+- [xfce](https://docs.xfce.org/contribute/dev/start#aillm_assisted_contribution_policy)
+- [lxqt](https://github.com/lxqt/lxqt/discussions/2889#discussioncomment-17839453)
+- [i3](https://github.com/i3/i3?tab=contributing-ov-file#ai-contribution-policy)
+- [sway](https://github.com/swaywm/swaylock/issues/471)
+- hyprland
+- niri
+- mutter
+</details>
+
+<details>
 <summary>Game engines</summary>
 <br>
 

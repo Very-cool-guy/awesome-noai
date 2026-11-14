@@ -64,6 +64,15 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 </details>
 
 <details>
+<summary>Desktop environments and window managers</summary>
+<br>
+
+- gnome
+- wayland
+- xmonad
+</details>
+
+<details>
 <summary>Game engines</summary>
 <br>
 
