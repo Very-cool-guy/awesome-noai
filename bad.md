@@ -7,7 +7,6 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 <summary>Editors and IDEs</summary>
 <br>
 
-- emacs
 - [kate](https://community.kde.org/Guidelines_and_HOWTOs/Maintainers_and_Contributions)
 - notepad++
 - [vscodium](https://github.com/vscodium/vscodium?tab=contributing-ov-file#use-of-ai)
@@ -69,7 +68,6 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - groovy
 - rocq
 - smalltalk ([squeak](https://news.squeak.org/2024/12/06/integrating-ai-language-models-into-smalltalk-development-workflows/), pharo, io)
-- idris
 - odin
 - uiua
 - scratch
@@ -126,8 +124,7 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 <summary>Operating systems</summary>
 <br>
 
-- linux (numerous distros)
-- haiku
+- linux and any distro not listed in the README (there are too many)
 - reactos
 </details>
 
@@ -142,7 +139,6 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - [i3](https://github.com/i3/i3?tab=contributing-ov-file#ai-contribution-policy)
 - [sway](https://github.com/swaywm/swaylock/issues/471)
 - hyprland
-- niri
 - mutter
 </details>
 
@@ -153,7 +149,6 @@ entries marked with 🤖 are not only ai-assisted but also vibe-coded.
 - godot
 - renpy
 - raylib
-- simple directmedia layer
 </details>
 
 <details>

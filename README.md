@@ -6,7 +6,10 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 <summary>Editors and IDEs</summary>
 <br>
 
+- ❗[gram](https://codeberg.org/GramEditor/gram)
+- ❗[vim classic](https://vim-classic.org)
 - nano
+- emacs
 </details>
 
 <details>
@@ -23,7 +26,7 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 - common lisp (clisp)
 - objective-c
 - ❗[zig](https://codeberg.org/ziglang/zig#strict-no-llm-no-ai-policy)
-- scheme ([chez](https://github.com/cisco/ChezScheme/issues/1028), chicken, gambit, ❗[guile](https://www.gnu.org/software/guile/contribute/))
+- scheme ([chez](https://github.com/cisco/ChezScheme/issues/1028), ❗[chicken](https://wiki.call-cc.org/contribute#regarding-patches-created-using-llm-assistance), gambit, ❗[guile](https://www.gnu.org/software/guile/contribute/))
 - ❗[gleam](https://github.com/gleam-lang/gleam?tab=contributing-ov-file#contributing-code-changes)
 - smalltalk (self)
 - purescript
@@ -31,7 +34,9 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 - bqn, gnu apl, j, kona
 - delphi
 - ❗[fennel](https://github.com/bakpakin/fennel?tab=contributing-ov-file#contribution-transparency)
+- ❗[idris](https://github.com/idris-lang/Idris2?tab=contributing-ov-file#things-we-will-not-accept)
 - hy
+- ❗[typst](https://github.com/typst/typst?tab=contributing-ov-file#how-to-land-a-contribution)
 
 </details>
 
@@ -49,14 +54,24 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 <br>
 
 - ❗[alacritty](https://github.com/alacritty/alacritty?tab=contributing-ov-file#llmai-contributions)
+- ❗[foot](https://codeberg.org/dnkl/foot/src/branch/master/CONTRIBUTING.md)
 - hyper
+- gnome terminal
+- gnu screen
 </details>
 
 <details>
 <summary>Operating systems</summary>
 <br>
 
+- ❗[asahi linux](https://asahilinux.org/llm-policy/)
+- ❗[chimera linux](https://chimera-linux.org/community/)
+- ❗[elementary os](https://docs.elementary.io/contributor-guide/development/generative-ai-policy)
+- ❗[gentoo linux](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
+- ❗[pop os](https://github.com/pop-os/pop/blob/master/CONTRIBUTING.md)
+- ❗[haiku](https://codeberg.org/haiku/haiku/src/branch/master/AGENTS.md)
 - 9front
+- ❗[redox os](https://github.com/redox-os/redox/blob/master/CONTRIBUTING.md#ai-policy)
 - [freebsd](https://reviews.freebsd.org/D50650)
 - dragonflybsd
 - [openbsd](https://marc.info/?l=openbsd-tech&m=177425035627562&)
@@ -70,6 +85,8 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 - gnome
 - wayland
 - xmonad
+- ❗[cosmic](https://github.com/pop-os/pop/blob/master/CONTRIBUTING.md)
+- ❗[niri](https://github.com/niri-wm/niri/blob/main/CONTRIBUTING.md#llm-policy)
 </details>
 
 <details>
@@ -77,6 +94,7 @@ Codebases that have a permanent clear anti-ai policy are prefixed with `❗`. Ot
 <br>
 
 - ❗[love2d](https://github.com/love2d/love#contributing)
+- ❗[simple directmedia layer](https://github.com/libsdl-org/SDL/blob/main/AGENTS.md)
 </details>
 
 <details>
@@ -106,4 +124,19 @@ sorry :(
 - ❗[tidalcycles](https://codeberg.org/uzu/tidal/src/branch/main/POLICY.md#in-practice)
 - icecast
 - pulseaudio
+</details>
+
+<details>
+<summary>Misc. utilities</summary>
+<br>
+
+Since this is too broad a field, i will only include items that would otherwise be marked as `❗`. A corresponding section does not exist in `bad.md`.
+- [pkgconf](https://github.com/libsdl-org/SDL/blob/main/AGENTS.md)
+- [prism launcher](https://github.com/PrismLauncher/PrismLauncher?tab=contributing-ov-file#foreword-on-ai-usage)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp/blob/master/CONTRIBUTING.md#no-ai--no-llm-policy)
+- [libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/-/blob/main/CONTRIBUTING.md)
+- [libxml2](https://github.com/GNOME/libxml2#strict-no-llm--no-ai-policy)
+- [chezmoi](https://www.chezmoi.io/developer-guide/)
+- [qemu](https://www.qemu.org/docs/master/devel/code-provenance.html#use-of-ai-generated-content)
+- [syncthing](https://github.com/syncthing/syncthing?tab=contributing-ov-file)
 </details>
